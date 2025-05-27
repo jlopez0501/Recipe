@@ -12,6 +12,8 @@ struct RecipeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .tint(Color.plum)
+            
         }
     }
 }
