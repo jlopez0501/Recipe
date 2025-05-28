@@ -46,7 +46,4 @@ struct RecipeGridView: View {
         }
     }
     
-//    #Preview {
-//        RecipeGridView(recipes: $recipes)
-//    }
 }
